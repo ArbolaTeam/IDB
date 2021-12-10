@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>TMT</fullName>
+        <default>false</default>
+        <label>TMT</label>
+    </customValue>
+    <customValue>
+        <fullName>BAN</fullName>
+        <default>false</default>
+        <label>Banks</label>
+    </customValue>
+    <customValue>
+        <fullName>FUN</fullName>
+        <default>false</default>
+        <label>Funds</label>
+    </customValue>
+    <customValue>
+        <fullName>AGR</fullName>
+        <default>false</default>
+        <label>Agribusiness</label>
+    </customValue>
+    <customValue>
+        <fullName>MAN</fullName>
+        <default>false</default>
+        <label>Manufacturing</label>
+    </customValue>
+    <customValue>
+        <fullName>TOU</fullName>
+        <default>false</default>
+        <label>Tourism</label>
+    </customValue>
+    <customValue>
+        <fullName>TRA</fullName>
+        <default>false</default>
+        <label>Transport</label>
+    </customValue>
+    <customValue>
+        <fullName>WAS</fullName>
+        <default>false</default>
+        <label>Water &amp; Sanitation</label>
+    </customValue>
+    <customValue>
+        <fullName>SIN</fullName>
+        <default>false</default>
+        <label>Social Infrastructure</label>
+    </customValue>
+    <customValue>
+        <fullName>ENE</fullName>
+        <default>false</default>
+        <label>Energy</label>
+    </customValue>
+    <customValue>
+        <fullName>OFI</fullName>
+        <default>false</default>
+        <label>Other FIs</label>
+    </customValue>
+    <masterLabel>Lead Sector</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

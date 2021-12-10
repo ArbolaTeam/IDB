@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- shows the next reminder date to primary contacts which has Documents with status equals Published or Rejected --></help>
+        <label><!-- Next Reminder to Primary Contact Date --></label>
+        <name>IDB_Next_Reminder_to_PC_Date__c</name>
+    </CustomFieldTranslation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Direct Hire Exception --></label>
+        <name>Direct_Hire_Exceptions__c</name>
+        <picklistValues>
+            <masterLabel>Competitive Process not Practical</masterLabel>
+            <translation><!-- Competitive Process not Practical --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Estimated cost US$50,000 or less</masterLabel>
+            <translation><!-- Estimated cost US$50,000 or less --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Immediate Hiring Required</masterLabel>
+            <translation><!-- Immediate Hiring Required --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Joint Representation with Other Institutions Desirable</masterLabel>
+            <translation><!-- Joint Representation with Other Institutions Desirable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Projects with Existing Clients</masterLabel>
+            <translation><!-- New Projects with Existing Clients --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prequalified Counsel Selected</masterLabel>
+            <translation><!-- Prequalified Counsel Selected --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Specialized Expertise Required</masterLabel>
+            <translation><!-- Specialized Expertise Required --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

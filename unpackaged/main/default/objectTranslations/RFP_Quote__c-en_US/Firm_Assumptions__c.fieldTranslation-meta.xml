@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- If edits to RFP assumptions are required, please copy and paste the assumptions from the RFP here with any edits --></help>
+        <label><!-- Firm Assumptions --></label>
+        <name>Firm_Assumptions__c</name>
+    </CustomFieldTranslation>

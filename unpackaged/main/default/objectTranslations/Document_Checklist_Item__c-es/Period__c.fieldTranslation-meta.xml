@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Please, follow the structure&apos;s instructions:
+
+Period &gt; Structure
+
+Annual &gt; YYYY
+Semester &gt; YYYY [1/2] H
+Trimester	&gt; YYYY [1/2/3/4] Q
+Monthly &gt; YYYY MM
+Date &gt; YYYY MM DD
+Date Range &gt;	[YYYY] – [YYYY] (Or specific dates range [YYYY MM DD])
+No Date &gt; No Date --></help>
+        <label>Periodo</label>
+        <name>Period__c</name>
+    </CustomFieldTranslation>

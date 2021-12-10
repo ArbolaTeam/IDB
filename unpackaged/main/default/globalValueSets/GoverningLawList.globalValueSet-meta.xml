@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>MLT</fullName>
+        <default>false</default>
+        <label>Other Governing Laws</label>
+    </customValue>
+    <customValue>
+        <fullName>LLA</fullName>
+        <default>false</default>
+        <label>Local Law</label>
+    </customValue>
+    <customValue>
+        <fullName>NYL</fullName>
+        <default>false</default>
+        <label>New York Law</label>
+    </customValue>
+    <masterLabel>Governing Law List</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- AddNewFirmorContinue --></label>
+        <name>AddNewFirmorContinue__c</name>
+        <picklistValues>
+            <masterLabel>Add new Firm</masterLabel>
+            <translation><!-- Add new Firm --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Continue</masterLabel>
+            <translation><!-- Continue --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

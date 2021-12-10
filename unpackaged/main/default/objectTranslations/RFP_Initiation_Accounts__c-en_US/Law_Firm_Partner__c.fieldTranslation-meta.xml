@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Law Firm Partner --></label>
+        <name>Law_Firm_Partner__c</name>
+        <relationshipLabel><!-- RFP Initiation Accounts --></relationshipLabel>
+    </CustomFieldTranslation>

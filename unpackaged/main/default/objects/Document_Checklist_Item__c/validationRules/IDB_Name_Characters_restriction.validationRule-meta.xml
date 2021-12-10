@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IDB_Name_Characters_restriction</fullName>
+    <active>true</active>
+    <description>VR to restrict some kind of characters on Name field</description>
+    <errorConditionFormula>OR(
+CONTAINS(Name, '~') ,
+CONTAINS(Name, '!') ,
+CONTAINS(Name, '@') ,
+CONTAINS(Name, '#') ,
+CONTAINS(Name, '$') ,
+CONTAINS(Name, '%') ,
+CONTAINS(Name, '^') ,
+CONTAINS(Name, '&amp;') ,
+CONTAINS(Name, '*') ,
+CONTAINS(Name, '(') ,
+CONTAINS(Name, ')') ,
+CONTAINS(Name, '`') ,
+CONTAINS(Name, ';') ,
+CONTAINS(Name, '&lt;') ,
+CONTAINS(Name, '&gt;') ,
+CONTAINS(Name, ':') ,
+CONTAINS(Name, '?') ,
+CONTAINS(Name, ',') ,
+CONTAINS(Name, '[') ,
+CONTAINS(Name, ']') ,
+CONTAINS(Name, '{') ,
+CONTAINS(Name, '}') ,
+CONTAINS(Name, '"') ,
+CONTAINS(Name, '/') ,
+CONTAINS(Name, '\\') ,
+CONTAINS(Name, '|') ,
+CONTAINS(Name, '.'),
+CONTAINS(Name, "'")
+)</errorConditionFormula>
+    <errorMessage>Invalid format name. Name Can't be with any of these symbols ~ ! @ # $ % ^ &amp; * ( ) ` ; &lt; &gt; :  ? , [ ] { } ' " / \ | .</errorMessage>
+</ValidationRule>

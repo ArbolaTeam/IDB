@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>RFP Initiation</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>RFP Initiations</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>RFP Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Comparative_Reporet --></label>
+        <name>Comparative_Reporet</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Create_RFP_Updated --></label>
+        <name>Create_RFP_Updated</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Generatea267h000001XR1BAAW --></label>
+        <name>Generatea267h000001XR1BAAW</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Generatea267h000001XR1fAAG --></label>
+        <name>Generatea267h000001XR1fAAG</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_flow --></label>
+        <name>New_flow</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- OnlineEditora267h000000RcXIAA0 --></label>
+        <name>OnlineEditora267h000000RcXIAA0</name>
+    </webLinks>
+</CustomObjectTranslation>

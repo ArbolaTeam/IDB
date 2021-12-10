@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label>Rol de equipo</label>
+        <name>IDB_Team_Role__c</name>
+        <picklistValues>
+            <masterLabel>Advisory Services Officer</masterLabel>
+            <translation>Oficial de servicios de asesoría</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alternate Portfolio Management Officer</masterLabel>
+            <translation>Oficial suplente de gestión de cartera</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Alternate Special Assets Officer</masterLabel>
+            <translation>Oficial suplente de bienes especiales</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blended Finance Officer</masterLabel>
+            <translation>Oficial de finanzas mixtas</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Governance Officer</masterLabel>
+            <translation>Oficial de Gobierno Corporativo</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Credit Risk Officer</masterLabel>
+            <translation>Oficial de riesgo crediticio</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Development Effectiveness Officer</masterLabel>
+            <translation>Oficial de Efectividad en el Desarrollo</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Environmental and Social Officer</masterLabel>
+            <translation>Oficial ambiental y social</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Analyst / Alternate Investment Officer</masterLabel>
+            <translation>Analista financiero / Oficial de inversiones suplente</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Products and Services Officer</masterLabel>
+            <translation>Oficial de productos y servicios financieros</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Institutional Integrity Officer</masterLabel>
+            <translation>Oficial de Integridad Institucional</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Investment Officer</masterLabel>
+            <translation>Oficial de inversiones</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loan Services Officer</masterLabel>
+            <translation>Oficial de servicios de préstamos</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Loan Services Officer Monitoring</masterLabel>
+            <translation>Supervisión del oficial de servicios de préstamos</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Portfolio Administration Officer</masterLabel>
+            <translation>Oficial de administración de cartera</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Portfolio Management Officer</masterLabel>
+            <translation>Oficial de gestión de cartera</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Resource Mobilization Officer</masterLabel>
+            <translation>Oficial de movilización de recursos</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Special Assets Officer</masterLabel>
+            <translation>Oficial de bienes especiales</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Team Leader</masterLabel>
+            <translation>Jefe de equipo</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transaction Attorney</masterLabel>
+            <translation>Abogado de transacciones</translation>
+        </picklistValues>
+    </CustomFieldTranslation>

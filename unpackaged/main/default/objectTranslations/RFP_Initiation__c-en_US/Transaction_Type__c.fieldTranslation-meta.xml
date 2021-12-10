@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Transaction Type --></label>
+        <name>Transaction_Type__c</name>
+        <picklistValues>
+            <masterLabel>Capital Markets</masterLabel>
+            <translation><!-- Capital Markets --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Corporate Finance</masterLabel>
+            <translation><!-- Corporate Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Equity</masterLabel>
+            <translation><!-- Equity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Institutions</masterLabel>
+            <translation><!-- Financial Institutions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Funds</masterLabel>
+            <translation><!-- Funds --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Institutional</masterLabel>
+            <translation><!-- Institutional --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MIF Equity</masterLabel>
+            <translation><!-- MIF Equity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MIF Lending</masterLabel>
+            <translation><!-- MIF Lending --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mobilization</masterLabel>
+            <translation><!-- Mobilization --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Model Forms</masterLabel>
+            <translation><!-- Model Forms --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Operations</masterLabel>
+            <translation><!-- Operations --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project Finance</masterLabel>
+            <translation><!-- Project Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Structure Finance</masterLabel>
+            <translation><!-- Structure Finance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supply Chain</masterLabel>
+            <translation><!-- Supply Chain --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TFFP</masterLabel>
+            <translation><!-- TFFP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Treasury</masterLabel>
+            <translation><!-- Treasury --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Select Continue if you choose to move forward with this RFP response or select Withdraw if you choose to decline participation --></help>
+        <label><!-- Decline to Participate? --></label>
+        <name>Decline_to_Participate__c</name>
+        <picklistValues>
+            <masterLabel>Continue</masterLabel>
+            <translation><!-- Continue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Withdraw</masterLabel>
+            <translation><!-- Withdraw --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

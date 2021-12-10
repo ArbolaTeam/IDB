@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Direct Hire Cost Estimate --></label>
+        <name>Direct_Hire_Cost_Estimate__c</name>
+        <picklistValues>
+            <masterLabel>Estimated cost US$50,000 or less</masterLabel>
+            <translation><!-- Estimated cost US$50,000 or less --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Estimated cost over US$50,000</masterLabel>
+            <translation><!-- Estimated cost over US$50,000 --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

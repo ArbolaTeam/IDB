@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>General Information</fullName>
+        <default>false</default>
+        <label>General Information</label>
+    </customValue>
+    <customValue>
+        <fullName>Social, Environmental and Health and Safety Management Systems</fullName>
+        <default>false</default>
+        <label>Social, Environmental and Health and Safety Management Systems</label>
+    </customValue>
+    <customValue>
+        <fullName>Labor conditions</fullName>
+        <default>false</default>
+        <label>Labor conditions</label>
+    </customValue>
+    <customValue>
+        <fullName>Occupational Safety and Health</fullName>
+        <default>false</default>
+        <label>Occupational Safety and Health</label>
+    </customValue>
+    <customValue>
+        <fullName>Prevention and Control</fullName>
+        <default>false</default>
+        <label>Prevention and Control</label>
+    </customValue>
+    <customValue>
+        <fullName>Community Health and Safety</fullName>
+        <default>false</default>
+        <label>Community Health and Safety</label>
+    </customValue>
+    <customValue>
+        <fullName>Others: Land Acquisition, Biodiversity, Indigenous Communities and Cultural Heritage</fullName>
+        <default>false</default>
+        <label>Others: Land Acquisition, Biodiversity, Indigenous Communities and Cultural Heritage</label>
+    </customValue>
+    <customValue>
+        <fullName>Borrower’s Corporate structure</fullName>
+        <default>false</default>
+        <label>Borrower’s Corporate structure</label>
+    </customValue>
+    <customValue>
+        <fullName>Business address/domicile and place of incorporation of the parent holding companies, subsidiaries and affiliates, and confirmation of whether the Borrower has any affiliates in any “offshore” jurisdictions</fullName>
+        <default>false</default>
+        <label>Business address/domicile and place of incorporation of the parent holding companies, subsidiaries and affiliates, and confirmation of whether the Borrower has any affiliates in any “offshore” jurisdictions</label>
+    </customValue>
+    <customValue>
+        <fullName>Statement of outstanding common and preferred shares and any other securities of the Borrower, indicating the numbers and types of shares and the percentage of ownership of the Borrower represented by such shares</fullName>
+        <default>false</default>
+        <label>Statement of outstanding common and preferred shares and any other securities of the Borrower, indicating the numbers and types of shares and the percentage of ownership of the Borrower represented by such shares</label>
+    </customValue>
+    <customValue>
+        <fullName>Approvals and Regulatory Status</fullName>
+        <default>false</default>
+        <label>Approvals and Regulatory Status</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Organization and Operation</fullName>
+        <default>false</default>
+        <label>Corporate Organization and Operation</label>
+    </customValue>
+    <customValue>
+        <fullName>Agreements</fullName>
+        <default>false</default>
+        <label>Agreements</label>
+    </customValue>
+    <customValue>
+        <fullName>Litigation</fullName>
+        <default>false</default>
+        <label>Litigation</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Documents</fullName>
+        <default>false</default>
+        <label>Other Documents</label>
+    </customValue>
+    <customValue>
+        <fullName>Assets</fullName>
+        <default>false</default>
+        <label>Assets</label>
+    </customValue>
+    <customValue>
+        <fullName>Bidding Process, Adjudication and Others</fullName>
+        <default>false</default>
+        <label>Bidding Process, Adjudication and Others</label>
+    </customValue>
+    <customValue>
+        <fullName>Capital and Shares</fullName>
+        <default>false</default>
+        <label>Capital and Shares</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Documents</fullName>
+        <default>false</default>
+        <label>Corporate Documents</label>
+    </customValue>
+    <customValue>
+        <fullName>Documents Relating to Construction and the Builder</fullName>
+        <default>false</default>
+        <label>Documents Relating to Construction and the Builder</label>
+    </customValue>
+    <customValue>
+        <fullName>Documents Relating to Maintenance and Operator</fullName>
+        <default>false</default>
+        <label>Documents Relating to Maintenance and Operator</label>
+    </customValue>
+    <customValue>
+        <fullName>Financing Arrangements</fullName>
+        <default>false</default>
+        <label>Financing Arrangements</label>
+    </customValue>
+    <customValue>
+        <fullName>Insurance</fullName>
+        <default>false</default>
+        <label>Insurance</label>
+    </customValue>
+    <customValue>
+        <fullName>Litigation/Claims</fullName>
+        <default>false</default>
+        <label>Litigation/Claims</label>
+    </customValue>
+    <customValue>
+        <fullName>Material Contracts</fullName>
+        <default>false</default>
+        <label>Material Contracts</label>
+    </customValue>
+    <customValue>
+        <fullName>Permits and Authorizations</fullName>
+        <default>false</default>
+        <label>Permits and Authorizations</label>
+    </customValue>
+    <customValue>
+        <fullName>Permits, Authorizations and Licenses</fullName>
+        <default>false</default>
+        <label>Permits, Authorizations and Licenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Social Books</fullName>
+        <default>false</default>
+        <label>Social Books</label>
+    </customValue>
+    <customValue>
+        <fullName>Taxes</fullName>
+        <default>false</default>
+        <label>Taxes</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <description>This Global Picklist value set is used for both DCI and DCTI under Subsection</description>
+    <masterLabel>Subsection</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

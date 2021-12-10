@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Alliances Legal</fullName>
+        <default>false</default>
+        <label>Alliances Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>All Legal Practices</fullName>
+        <default>false</default>
+        <label>All Legal Practices</label>
+    </customValue>
+    <customValue>
+        <fullName>All Practices</fullName>
+        <default>false</default>
+        <label>All Practices</label>
+    </customValue>
+    <customValue>
+        <fullName>Commercial Legal</fullName>
+        <default>false</default>
+        <label>Commercial Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Governance</fullName>
+        <default>false</default>
+        <label>Corporate Governance</label>
+    </customValue>
+    <customValue>
+        <fullName>Cyber Security Legal</fullName>
+        <default>false</default>
+        <label>Cyber Security Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Employment Legal</fullName>
+        <default>false</default>
+        <label>Employment Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Enterprise Risk Management</fullName>
+        <default>false</default>
+        <label>Enterprise Risk Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Ethics and Integrity</fullName>
+        <default>false</default>
+        <label>Ethics and Integrity</label>
+    </customValue>
+    <customValue>
+        <fullName>Government Affairs</fullName>
+        <default>false</default>
+        <label>Government Affairs</label>
+    </customValue>
+    <customValue>
+        <fullName>GS&amp;S</fullName>
+        <default>false</default>
+        <label>GS&amp;S</label>
+    </customValue>
+    <customValue>
+        <fullName>Internal Audit</fullName>
+        <default>false</default>
+        <label>Internal Audit</label>
+    </customValue>
+    <customValue>
+        <fullName>IP</fullName>
+        <default>false</default>
+        <label>IP</label>
+    </customValue>
+    <customValue>
+        <fullName>LCA Ops</fullName>
+        <default>false</default>
+        <label>LCA Ops</label>
+    </customValue>
+    <customValue>
+        <fullName>Legal M&amp;A</fullName>
+        <default>false</default>
+        <label>Legal M&amp;A</label>
+    </customValue>
+    <customValue>
+        <fullName>Litigation</fullName>
+        <default>false</default>
+        <label>Litigation</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Legal</fullName>
+        <default>false</default>
+        <label>Marketing Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Privacy</fullName>
+        <default>false</default>
+        <label>Privacy</label>
+    </customValue>
+    <customValue>
+        <fullName>Procurement Legal</fullName>
+        <default>false</default>
+        <label>Procurement Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Product Legal</fullName>
+        <default>false</default>
+        <label>Product Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Public Sector Legal</fullName>
+        <default>false</default>
+        <label>Public Sector Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Readiness &amp; Advisory</fullName>
+        <default>false</default>
+        <label>Readiness &amp; Advisory</label>
+    </customValue>
+    <customValue>
+        <fullName>RSC</fullName>
+        <default>false</default>
+        <label>RSC</label>
+    </customValue>
+    <customValue>
+        <fullName>SOX</fullName>
+        <default>false</default>
+        <label>SOX</label>
+    </customValue>
+    <customValue>
+        <fullName>S&amp;R - Resilience</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>S&amp;R - Resilience</label>
+    </customValue>
+    <customValue>
+        <fullName>Corporate Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Corporate Security</label>
+    </customValue>
+    <customValue>
+        <fullName>Sales</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Sales</label>
+    </customValue>
+    <customValue>
+        <fullName>CSG</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>CSG</label>
+    </customValue>
+    <customValue>
+        <fullName>Privacy Legal</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Privacy Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>Privacy Compliance</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Privacy Compliance</label>
+    </customValue>
+    <customValue>
+        <fullName>CS&amp;S - BizOps</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>CS&amp;S - BizOps</label>
+    </customValue>
+    <customValue>
+        <fullName>CS&amp;S - M&amp;A</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>CS&amp;S - M&amp;A</label>
+    </customValue>
+    <customValue>
+        <fullName>Event Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Event Security</label>
+    </customValue>
+    <customValue>
+        <fullName>SecOps - Regional</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SecOps - Regional</label>
+    </customValue>
+    <customValue>
+        <fullName>SecOps - Risk Intelligence</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SecOps - Risk Intelligence</label>
+    </customValue>
+    <customValue>
+        <fullName>SS&amp;T - DC Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SS&amp;T - DC Security</label>
+    </customValue>
+    <customValue>
+        <fullName>SS&amp;T - Security Technology</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SS&amp;T - Security Technology</label>
+    </customValue>
+    <customValue>
+        <fullName>SecOps - GO Center</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SecOps - GO Center</label>
+    </customValue>
+    <customValue>
+        <fullName>SS&amp;T - Design &amp; Integration</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>SS&amp;T - Design &amp; Integration</label>
+    </customValue>
+    <customValue>
+        <fullName>S&amp;R - Health &amp; Safety</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>S&amp;R - Health &amp; Safety</label>
+    </customValue>
+    <customValue>
+        <fullName>Security</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Security</label>
+    </customValue>
+    <masterLabel>Legal Departments</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

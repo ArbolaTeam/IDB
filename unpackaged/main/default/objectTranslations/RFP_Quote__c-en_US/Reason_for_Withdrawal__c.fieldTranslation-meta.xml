@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- If Withdrawal was selected for Continue with Process, please provide the reason your firm is withdrawing --></help>
+        <label><!-- Reason for Withdrawal --></label>
+        <name>Reason_for_Withdrawal__c</name>
+    </CustomFieldTranslation>

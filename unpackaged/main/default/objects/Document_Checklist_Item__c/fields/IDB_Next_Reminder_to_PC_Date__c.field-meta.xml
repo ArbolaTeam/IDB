@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IDB_Next_Reminder_to_PC_Date__c</fullName>
+    <description>field used to set the next reminder date for primary contacts to review Documents with status equals Published or Rejected</description>
+    <encryptionScheme>None</encryptionScheme>
+    <externalId>false</externalId>
+    <inlineHelpText>shows the next reminder date to primary contacts which has Documents with status equals Published or Rejected</inlineHelpText>
+    <label>Next Reminder to Primary Contact Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>

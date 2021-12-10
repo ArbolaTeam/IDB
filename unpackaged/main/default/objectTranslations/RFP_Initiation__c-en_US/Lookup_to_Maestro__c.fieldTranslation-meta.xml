@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Lookup to Maestro --></label>
+        <name>Lookup_to_Maestro__c</name>
+        <picklistValues>
+            <masterLabel>Transaction 1</masterLabel>
+            <translation><!-- Transaction 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transaction 2</masterLabel>
+            <translation><!-- Transaction 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Transaction 3</masterLabel>
+            <translation><!-- Transaction 3 --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

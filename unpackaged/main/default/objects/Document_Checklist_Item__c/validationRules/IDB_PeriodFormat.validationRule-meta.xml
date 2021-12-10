@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IDB_PeriodFormat</fullName>
+    <active>true</active>
+    <description>The field only have to accept this structure:
+
+Periodo	|	Estructura
+Annual	|	YYYY
+Semestral	|	YYYY[1/2]H
+Trimestral	|	YYYY[1/2/3/4]Q
+Monthly	|	YYYY MM
+Date	|	YYYY MM DD
+Date Range*	|	[YYYY]-[YYYY]
+No Date	|	No Date</description>
+    <errorConditionFormula>AND(
+    NOT(REGEX( Period__c , "\\d{4}")),
+    NOT(REGEX(Period__c , "\\d{4} (1|2) H")),
+    NOT(REGEX(Period__c , "\\d{4} (1|2|3|4) Q")),
+    NOT(REGEX(Period__c , "\\d{4} (0??[1-9]|1[0-2]) (0??[1-9]|1[0-9]|2[0-9]|3[01])")),
+    NOT(REGEX(Period__c , "\\d{4} (0??[1-9]|1[0-2])")),
+    NOT(REGEX(Period__c , "\\d{4}-\\d{4}")),
+    NOT(CONTAINS(Period__c , "No Date"))
+)</errorConditionFormula>
+    <errorDisplayField>Period__c</errorDisplayField>
+    <errorMessage>Not a valid format for Period field, please follow the structure's instructions indicated on the field help.</errorMessage>
+</ValidationRule>

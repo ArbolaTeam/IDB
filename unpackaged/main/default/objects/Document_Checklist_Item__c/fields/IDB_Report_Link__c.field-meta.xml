@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IDB_Report_Link__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( NOT( ISBLANK( Opportunity__r.AccountId ) ) ,
+ IF(RecordType.DeveloperName == 'IDB_Integrity_Due_Diligence',HYPERLINK( $Label.ReportUrlPrefix + $Label.IDD_Forms_Report_Id + $Label.ReportUrlPost &amp; Opportunity__r.AccountId , "Integrity Due Diligence Report"), 
+ IF(RecordType.DeveloperName == 'IDB_Integrity_Due_Diligence_for_Funds',
+HYPERLINK( $Label.ReportUrlPrefix +$Label.IDD_Funds_Report_Id+ $Label.ReportUrlPost &amp;  Opportunity__r.AccountId  , "Integrity Due Diligence Fund Report") ,"")
+ ) 
+, "")</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Report Link</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

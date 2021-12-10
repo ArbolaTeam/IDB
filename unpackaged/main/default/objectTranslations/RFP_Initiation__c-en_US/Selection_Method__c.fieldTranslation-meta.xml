@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Selection Method --></label>
+        <name>Selection_Method__c</name>
+        <picklistValues>
+            <masterLabel>Competitive Process</masterLabel>
+            <translation><!-- Competitive Process --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Direct Hiring</masterLabel>
+            <translation><!-- Direct Hiring --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

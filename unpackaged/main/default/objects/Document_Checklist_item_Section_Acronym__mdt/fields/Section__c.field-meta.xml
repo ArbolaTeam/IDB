@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Section__c</fullName>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <label>Section</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Initial Review</fullName>
+                <default>true</default>
+                <label>Initial Review</label>
+            </value>
+            <value>
+                <fullName>Litigations Investigations Questionnaire</fullName>
+                <default>false</default>
+                <label>Litigations Investigations Questionnaire</label>
+            </value>
+            <value>
+                <fullName>Integrity Review</fullName>
+                <default>false</default>
+                <label>Integrity Review</label>
+            </value>
+            <value>
+                <fullName>Development Effectiveness</fullName>
+                <default>false</default>
+                <label>Development Effectiveness</label>
+            </value>
+            <value>
+                <fullName>Corporate Governance</fullName>
+                <default>false</default>
+                <label>Corporate Governance</label>
+            </value>
+            <value>
+                <fullName>Requirements for Environmental, Social and Occupational Health and Safety</fullName>
+                <default>false</default>
+                <label>Requirements for Environmental, Social and Occupational Health and Safety</label>
+            </value>
+            <value>
+                <fullName>Additional Information Requirements to Start the Environmental and Social Due Diligence Process</fullName>
+                <default>false</default>
+                <label>Additional Information Requirements to Start the Environmental and Social Due Diligence Process</label>
+            </value>
+            <value>
+                <fullName>Legal Due Diligence Questionnaire</fullName>
+                <default>false</default>
+                <label>Legal Due Diligence Questionnaire</label>
+            </value>
+            <value>
+                <fullName>Legal Due Diligence Checklist</fullName>
+                <default>false</default>
+                <label>Legal Due Diligence Checklist</label>
+            </value>
+            <value>
+                <fullName>Limited Legal Due Diligence Checklist</fullName>
+                <default>false</default>
+                <label>Limited Legal Due Diligence Checklist</label>
+            </value>
+            <value>
+                <fullName>Complete Legal Due Diligence</fullName>
+                <default>false</default>
+                <label>Complete Legal Due Diligence</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

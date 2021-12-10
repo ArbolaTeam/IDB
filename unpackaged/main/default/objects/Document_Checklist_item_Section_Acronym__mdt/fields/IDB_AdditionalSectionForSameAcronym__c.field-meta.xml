@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IDB_AdditionalSectionForSameAcronym__c</fullName>
+    <description>Field to add additional active sections from Document Checklist Item with same Acronym separeted by ;</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Please add additional sections for this same Acronym, separated by Semicolon(;) without spaces between each value. e.g. SectionA;SectionB</inlineHelpText>
+    <label>AdditionalSectionForSameAcronym</label>
+    <length>10000</length>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

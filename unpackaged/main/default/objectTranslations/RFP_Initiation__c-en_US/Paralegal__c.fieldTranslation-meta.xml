@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Select the IDB Invest paralegal responsible for this RFP --></help>
+        <label><!-- Paralegal --></label>
+        <name>Paralegal__c</name>
+        <relationshipLabel><!-- RFP Initiations --></relationshipLabel>
+    </CustomFieldTranslation>
